@@ -27,10 +27,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did 부산 로고",
       address:
-        "부산광역시 수영구 수영로 427번길 39 WYD 부산 교구대회 사무국",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "운영시간: 10:00 ~ 18:00",
+        "부산 수영구 남천서로 32번길 21",
+      email: "busan-wyd@catb.kr",
+      phone: "051-629-8784",
+      hours: "운영시간: 월~금 09:00~17:30 점심시간 12:00~13:30",
       copyright: "Copyright ⓒ 부산교구 All rights reserved",
     },
     slider: {
@@ -85,10 +85,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did Busan logo",
       address:
-        "39, Suyeong-ro 427beon-gil, Suyeong-gu, Busan, WYD Busan Diocesan Committee",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "Hours: 10:00 ~ 18:00",
+        "21, Namcheonseoro 32beon-gil, Suyeong-gu, Busan",
+      email: "busan-wyd@catb.kr",
+      phone: "051-629-8784",
+      hours: "Hours: Mon-Fri 09:00~17:30 Lunch 12:00~13:30",
       copyright: "Copyright ⓒ Diocese of Busan All rights reserved",
     },
     slider: {

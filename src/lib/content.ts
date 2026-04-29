@@ -20,7 +20,7 @@ export const content = {
       ogLocale: "ko_KR",
     },
     header: {
-      logoAlt: "wyd did 부산 로고",
+      logoAlt: "wyd did 부산",
       nav: {
         home: "홈",
         calendar: "캘린더",
@@ -31,7 +31,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did 부산 로고",
+      logoAlt: "wyd did 부산",
       address:
         "부산 수영구 남천서로 32번길 21",
       email: "busan-wyd@catb.kr",
@@ -78,7 +78,7 @@ export const content = {
       ogLocale: "en_US",
     },
     header: {
-      logoAlt: "wyd did Busan logo",
+      logoAlt: "wyd did Busan",
       nav: {
         home: "Home",
         calendar: "Calendar",
@@ -89,7 +89,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did Busan logo",
+      logoAlt: "wyd did Busan",
       address:
         "21, Namcheonseoro 32beon-gil, Suyeong-gu, Busan",
       email: "busan-wyd@catb.kr",

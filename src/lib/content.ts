@@ -33,9 +33,9 @@ export const content = {
     footer: {
       logoAlt: "wyd did 부산",
       address:
-        "부산 수영구 남천서로 32번길 21",
-      email: "busan-wyd@catb.kr",
-      phone: "051-629-8784",
+        "48316. 부산 수영구 수영로427번길 39 (남천동)",
+      email: "webmaster@catb.kr",
+      phone: "051-629-8700",
       hours: "운영시간: 월~금 09:00~17:30 점심시간 12:00~13:30",
       copyright: "Copyright ⓒ 부산교구 All rights reserved",
     },
@@ -91,9 +91,9 @@ export const content = {
     footer: {
       logoAlt: "wyd did Busan",
       address:
-        "21, Namcheonseoro 32beon-gil, Suyeong-gu, Busan",
-      email: "busan-wyd@catb.kr",
-      phone: "051-629-8784",
+        "48316. 39, Suyeong-ro 427beon-gil, Suyeong-gu, Busan (Namcheon-dong)",
+      email: "webmaster@catb.kr",
+      phone: "051-629-8700",
       hours: "Hours: Mon-Fri 09:00~17:30 Lunch 12:00~13:30",
       copyright: "Copyright ⓒ Diocese of Busan All rights reserved",
     },
